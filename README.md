@@ -2,6 +2,7 @@
 
 ## INPUT
 ### 1. Matrix A dan B sudah didefinisikan di dalam program
+```python
 A = [
     [1, 2, 3, 4, 5],
     [2, 3, 1, 5, 4],
