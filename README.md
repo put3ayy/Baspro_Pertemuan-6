@@ -1,6 +1,6 @@
 # Program Perkalian matrix 5x5 dengan matrix 5x5
 
-Program ini melakukan perkalian dua matrix 5x5 yang sudah didefinisikan dalam program, hasil perkaliannya akan dihitung dan ditampilkan
+Program ini melakukan perkalian dua matrix 5x5 yang sudah didefinisikan dalam program, hasil perkaliannya akan dihitung dan ditampilkan.
 
 ## INPUT
 ### 1. Matrix A dan B sudah didefinisikan di dalam program:
