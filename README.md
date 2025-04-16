@@ -1,7 +1,9 @@
-# Perkalian matrix 5x5 dengan matrix 5x5
+# Program Perkalian matrix 5x5 dengan matrix 5x5
 
-# INPUT
-# 1. Matrix A dan B sudah didefinisikan di dalam program
+Program ini melakukan perkalian dua matrix 5x5 yang sudah didefinisikan dalam program, hasil perkaliannya akan dihitung dan ditampilkan
+
+## INPUT
+### 1. Matrix A dan B sudah didefinisikan di dalam program:
 ```
 A = [
     [1, 2, 3, 4, 5],
@@ -20,7 +22,7 @@ B = [
 ]
 ```
 
-# 2. Program akan menghitung hasil perkalian matrix A dengan matrix B
+### 2. Program akan menghitung hasil perkalian matrix A dengan matrix B:
 ```
 hasil = []
 
@@ -40,7 +42,7 @@ j = indeks untuk kolom matrix B
 
 k = indeks untuk perkalian elemen baris A dan kolom B 
 
-# 3. Hasilnya akan ditampilkan di layar output
+### 3. Hasilnya akan ditampilkan di layar output:
 ```
 print("Hasil perkalian matrix A x B : ")
 for baris in hasil:
