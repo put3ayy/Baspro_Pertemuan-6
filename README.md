@@ -34,9 +34,9 @@ for i in range(5):
     hasil.append(baris)
 ```
 
- i = indeks untuk baris matrix A 
- j = indeks untuk kolom matrix B 
- k = indeks untuk perkalian elemen baris A dan kolom B 
+*i = indeks untuk baris matrix A 
+*j = indeks untuk kolom matrix B 
+*k = indeks untuk perkalian elemen baris A dan kolom B 
 
 # 3. Hasilnya akan ditampilkan di layar output
 ```
